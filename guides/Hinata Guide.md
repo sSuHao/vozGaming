@@ -2,7 +2,7 @@
 
 ##Danh mục
 - [Roles](#Roles)
-- [Hệ thống tiền tệ](#Gach)
+- [Currency](#Currency)
 - [Trò chơi](#Trò chơi)
 - [Gambling](#gambling)
 - [Games](#games)
@@ -28,7 +28,7 @@ Chuẩn vozer: Tím
 Nông dân chăn rau: Nâu
 Đã tốn tiền: Xanh**
 
-### Gach
+### Currency
 
 Lệnh | Chức năng | Ví dụ
 ----------------|--------------|-------
