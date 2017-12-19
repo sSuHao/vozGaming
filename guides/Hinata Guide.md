@@ -3,7 +3,7 @@
 ##Danh mục
 - [Roles / Chức danh](#roles)
 - [Hệ thống tiền tệ](#currency)
-- [Trò chơi](#Trò chơi)
+- [Trò chơi](#games)
 - [Gambling](#gambling)
 - [Games](#games)
 - [Music](#music)
@@ -21,12 +21,17 @@ Lệnh | Chức năng | Ví dụ
 
 Hiện tại server đang có 6 roles có thể tự set (có thể thay đổi)
 
-**Gay detected: Hồng
+Gay detected: Hồng
+
 Dầu ăn Neptune: Vàng
+
 Chuẩn vozer: Tím
+
 Đảng viên gương mẫu: Đỏ
+
 Nông dân chăn rau: Nâu
-Đã tốn tiền: Xanh**
+
+Đã tốn tiền: Xanh
 
 ### Currency
 
@@ -40,5 +45,11 @@ Lệnh | Chức năng | Ví dụ
 
 ### Games
 
+Các trò chơi vui vẻ
+
 Lệnh | Chức năng | Ví dụ
 ----------------|--------------|-------
+`.raffle` | Ngẫu nhiên chọn ra tên của một người đang ONLINE trong server, hoặc trong 1 role chỉ định | `.raffle` `.raffle TênRole`
+`.raffleany` | Ngẫu nhiên chọn ra tên của một người trong server, hoặc trong 1 role chỉ định | `.raffleany` `.raffleany TênRole`
+`.race` | Khởi động 1 cuộc đua kì thú giữa các loài động vật | .
+`.jr` `.joinrace` | Tham gia cuộc đua. Có thể cược số tiền. Bạn sẽ nhận lại SốBạnCược*(SốNgườiThamGia-1) nếu bạn thắng | `.jr` `.joinrace 5`
