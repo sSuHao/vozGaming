@@ -9,15 +9,21 @@ Discord có 2 loại channel là text channel (chat chữ) và voice channel (ch
 - Trò chuyện linh tinh
 
 -#thong-bao: thông báo về toàn bộ hoạt động của server.
+
 -#event: mọi sự kiện đã, đang và sắp diễn ra sẽ post tại đây.
+
 -#thao-luan-chung: channel chính để trò chuyện.
+
 -#real-sex: không cần nói đâu nhỉ ( ͡° ͜ʖ ͡°) .
+
 Voice: trà đá vỉa hè
 
 - BOT Hinata
 
 -#bot-spam: toàn bộ lệnh của bot Hinata gõ tại đây.
+
 -#bot-game: nơi chơi các game của bot.
+
 -#bot-nsfw: vào thì biết ( ͡° ͜ʖ ͡°) .
 
 - Music channel
@@ -29,7 +35,9 @@ Voice: trà đá vỉa hè
 - Game Room
 
 -#tim-nguoi-choi: như tên gọi, mọi yêu cầu rủ rê chơi bời toàn bộ tại đây.
+
 3 voice channel riêng dành cho team
+
 5 voice channel public dành cho mọi người
 
 ![Imgur](https://i.imgur.com/ZIb0A0j.png)
@@ -38,6 +46,7 @@ Voice: trà đá vỉa hè
 
 
 PC: chuột phải vào channel, chọn Mute
+
 Mobile: chạm & giữ, chọn Mute Category
 
 ![Imgur](https://i.imgur.com/FVwrTtV.png)
