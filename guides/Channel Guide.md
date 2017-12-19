@@ -8,27 +8,27 @@ Discord có 2 loại channel là text channel (chat chữ) và voice channel (ch
 
 - Trò chuyện linh tinh
 
-#thong-bao: thông báo về toàn bộ hoạt động của server.
-#event: mọi sự kiện đã, đang và sắp diễn ra sẽ post tại đây.
-#thao-luan-chung: channel chính để trò chuyện.
-#real-sex: không cần nói đâu nhỉ ( ͡° ͜ʖ ͡°) .
+-#thong-bao: thông báo về toàn bộ hoạt động của server.
+-#event: mọi sự kiện đã, đang và sắp diễn ra sẽ post tại đây.
+-#thao-luan-chung: channel chính để trò chuyện.
+-#real-sex: không cần nói đâu nhỉ ( ͡° ͜ʖ ͡°) .
 Voice: trà đá vỉa hè
 
 - BOT Hinata
 
-#bot-spam: toàn bộ lệnh của bot Hinata gõ tại đây.
-#bot-game: nơi chơi các game của bot.
-#bot-nsfw: vào thì biết ( ͡° ͜ʖ ͡°) .
+-#bot-spam: toàn bộ lệnh của bot Hinata gõ tại đây.
+-#bot-game: nơi chơi các game của bot.
+-#bot-nsfw: vào thì biết ( ͡° ͜ʖ ͡°) .
 
 - Music channel
 
-#yeu-cau-bai-hat: mọi yêu cầu bài hát với bot âm nhạc sử dụng tại đây
+-#yeu-cau-bai-hat: mọi yêu cầu bài hát với bot âm nhạc sử dụng tại đây
 
 Đọc kĩ hơn về bot âm nhạc tại
 
 - Game Room
 
-#tim-nguoi-choi: như tên gọi, mọi yêu cầu rủ rê chơi bời toàn bộ tại đây.
+-#tim-nguoi-choi: như tên gọi, mọi yêu cầu rủ rê chơi bời toàn bộ tại đây.
 3 voice channel riêng dành cho team
 5 voice channel public dành cho mọi người
 
