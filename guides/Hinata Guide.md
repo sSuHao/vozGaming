@@ -1,8 +1,8 @@
 ## Các lệnh cơ bản cần biết với bot Hinata
 
 ##Danh mục
-- [Roles](#Roles)
-- [Currency](#Currency)
+- [Roles / Chức danh](#roles)
+- [Hệ thống tiền tệ](#currency)
 - [Trò chơi](#Trò chơi)
 - [Gambling](#gambling)
 - [Games](#games)
@@ -38,7 +38,7 @@ Lệnh | Chức năng | Ví dụ
 `.shop` | Cửa hàng | .
 `.buy X` | Mua vật phẩm có số thứ tự X trong cửa hàng. Lưu ý cần bật chế độ gửi tin nhắn riêng tư để bot có thể gửi vật phẩm | `.buy 1`
 
-### Trò chơi
+### Games
 
 Lệnh | Chức năng | Ví dụ
 ----------------|--------------|-------
