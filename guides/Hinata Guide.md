@@ -1,7 +1,7 @@
 ## Các lệnh cơ bản cần biết với bot Hinata
 
 ##Danh mục
-- [Role / chức danh](#Roles)
+- [Roles](#Roles)
 - [Hệ thống tiền tệ](#Gach)
 - [Trò chơi](#Trò chơi)
 - [Gambling](#gambling)
