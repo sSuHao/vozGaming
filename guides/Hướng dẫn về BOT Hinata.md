@@ -49,6 +49,9 @@ Lệnh | Chức năng | Ví dụ
 
 ### exp
 
+Bạn sẽ nhận được kinh nghiệm khi chat tại channel #thao-luan-chung
+Lên cấp tương ứng sẽ được thưởng các phần quà tương ứng
+
 Lệnh | Chức năng | Ví dụ
 ----------------|--------------|-------
 `.xp` | Hiển thị thông tin kinh nghiệm hiện tại | `.xp` hoặc `.xp @aiđó`
