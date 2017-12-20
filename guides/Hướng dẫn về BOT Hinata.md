@@ -34,6 +34,9 @@ Nông dân chăn rau: Nâu
 
 Đã tốn tiền: Xanh
 
+![Imgur](https://i.imgur.com/xuQciVf.png)
+
+
 ### Currency
 
 Lệnh | Chức năng | Ví dụ
@@ -46,6 +49,9 @@ Lệnh | Chức năng | Ví dụ
 `.pick` | Nhặt lượng tiền được sinh ra ngẫu nhiên tại kênh chat | `.pick`
 `.plant` | Tốn một lượng tiền để tung ra kênh chat. Mặc định là 1 | `.plant` hoặc `.plant 10`
 
+Tại kênh chat #thao-luan-chung, sẽ có tỉ lệ ngẫu nhiên gạch rơi ra, ai nhặt nhanh nhất sẽ được sở hữu.
+
+![Imgur](https://i.imgur.com/yXDatoH.png)
 
 ### exp
 
@@ -59,7 +65,7 @@ Lệnh | Chức năng | Ví dụ
 `.xpn server channel` | Thông báo mỗi khi lên cấp tại channel chat cuối cùng | .
 `.xpleaderboard` `.xplb` | Bảng xếp hạng XP | .
 
-
+![Imgur](https://i.imgur.com/QNvPWdP.png)
 
 ### Games
 
