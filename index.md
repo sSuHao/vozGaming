@@ -14,7 +14,7 @@ Mục tiêu và phương hướng hoạt động: miễn phí, vui vẻ, hòa đ
 
 
 ##Danh mục
-- [Giới thiệu](about.md)
+
 - Hướng dẫn
 	- [Luật lệ](guides/Rules Guide.md)
 	- [Các channel và chức năng](guides/Channel Guide.md)
