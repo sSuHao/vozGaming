@@ -6,7 +6,7 @@ Cách sử dụng các bot Âm nhạc này cũng gần giống Nadeko: thông qu
 
 Hiện tại server đang có 3 bot Âm nhạc là Rythm, Gnar và Fred
 
-[Imgur](https://i.imgur.com/5Hq7YRQ.png)
+![Imgur](https://i.imgur.com/5Hq7YRQ.png)
 
 Mỗi bot có tiền tố lệnh khác nhau. Như Hinata các bạn có thể thấy các lệnh đều bắt đầu bằng dấu `.`
 
