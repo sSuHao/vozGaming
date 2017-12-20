@@ -49,6 +49,18 @@ Lệnh | Chức năng | Ví dụ
 
 ### Games
 
+
+Các trò chơi vui vẻ
+
+Lệnh | Chức năng | Ví dụ
+----------------|--------------|-------
+`.choose` | Chọn 1 thứ ngẫu nhiên từ danh sách | `.choose Ăn cơm;Ăn cứt;Ăn c*c`
+`.8ball` | Hỏi một câu hỏi có/không (đúng/sai) | `.8ball admin đẹp trai vl đúng không?`
+`.rps` | Chơi Kéo-Búa-Bao (oẳn tù tì) với Hinata | `.rps Rocket/Paperclip/Scissors`
+`.connect4` `.con4` | Tạo một trò chơi connect4, yêu cầu tối thiểu phải có 2 người. Mục tiêu là đưa 4 mảnh vỡ thành 1 đường thẳng hoặc ngang hoặc chéo | `.connect4`
+`.tictactoe` `.ttt` | Mở game chơi cờ caro. Yêu cầu phải có 2 người cùng sử dụng lệnh để bắt đầu game. Sử dụng số 1-9 để chơi | `.ttt`
+
+
 Các trò chơi ngẫu nhiên & cá cược
 
 Lệnh | Chức năng | Ví dụ
@@ -60,18 +72,12 @@ Lệnh | Chức năng | Ví dụ
 `.roll` | Tung xúc xắc từ 0-100. Nếu thêm số `X` thì sẽ tung tới tối đa 30 con xúc xắc. Nếu tách 2 số bằng chữ cái `d` theo dạng `XdY` thì sẽ xúc xắc `X` con từ 1 tới số `Y`. Có thể thay đổi `Y` thành chữ F để xúc xắc theo kiểu Đúng/Sai (Âm/Dương) | `.roll` hoặc `.roll 7` hoặc `.roll 3d5` hoặc `.roll 5dF`
 `.rolluo` | Tung xúc xắc ngẫu nhiên không sắp xếp thứ tự. Cách thức sử dụng như `.roll` | .
 `.nroll` | Tung xúc xắc trong 1 khoảng chỉ định. Nếu bạn chọn một số thay vì một khoảng. Nó sẽ xúc xắc từ 0 tới số đó | `.nroll 5` hoặc `.nroll 5-15`
+`.rollduel` | Thách đấu một ai đó tham gia trò xúc xắc bằng cách chỉ định số tiền sẽ tham gia và tên người muốn thách thức. Để chấp nhận lời thách thức, chỉ cần chỉ định tên người thách thức, không cần điền số tiền | `.rollduel 50 @SuHao` hoặc `.rollduel @SuHao`
+`.betroll` `.br` | Cược số tiền chỉ định và tung xúc xắc. Tung được điểm lớn hơn 66 sẽ được x2 số tiền cược, trên 90 được x4, được 100 sẽ được x10 | `.betroll 5` `.br 5`
 `.draw` | Ngẫu nhiên rút ra 1 lá bài trong bộ bài server. Có thể rút tối đa 10 lá bằng cách thêm số lá | `.draw` hoặc `.draw 5`
 `.drawnew` | Rút ra một hoặc nhiều lá từ bộ bài MỚI. Tối đa 10 lá | `.drawnew` hoặc `.drawnew 5`
 `.deckshuffle` `.dsh` | Xáo trộn lại toàn bộ bài | .
 `.flip` | Tung đồng xu - Ngửa (head) hoặc sấp (tail), có hình ảnh minh họa | `.flip` hoặc `.flip 3`
 `.betflip` `.bf` | Cá cược trò tung đồng xu với BOT của server xem kết quả là heads/h (ngửa) hay tails/t (sấp). Phần thưởng là 1.9x số tiền cược (có thể thay đổi). | `.bf 5 heads` hoặc `.bf 5 t`
 
-Các trò chơi vui vẻ
 
-Lệnh | Chức năng | Ví dụ
-----------------|--------------|-------
-`.choose` | Chọn 1 thứ ngẫu nhiên từ danh sách | `.choose Ăn cơm;Ăn cứt;Ăn c*c`
-`.8ball` | Hỏi một câu hỏi có/không (đúng/sai) | `.8ball admin đẹp trai vl đúng không?`
-`.rps` | Chơi Kéo-Búa-Bao (oẳn tù tì) với Hinata | `.rps Rocket/Paperclip/Scissors`
-`.connect4` `.con4` | Tạo một trò chơi connect4, yêu cầu tối thiểu phải có 2 người. Mục tiêu là đưa 4 mảnh vỡ thành 1 đường thẳng hoặc ngang hoặc chéo | `.connect4`
-`.tictactoe` `.ttt` | Mở game chơi cờ caro. Yêu cầu phải có 2 người cùng sử dụng lệnh để bắt đầu game. Sử dụng số 1-9 để chơi | `.ttt`
