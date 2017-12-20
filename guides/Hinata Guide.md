@@ -5,8 +5,8 @@
 - [Hệ thống tiền tệ](#currency)
 - [Hệ thống kinh nghiệm](#exp)
 - [Trò chơi](#games)
-- [18+ ( ͡° ͜ʖ ͡°) ](#NSFW)
-- [Một số lệnh vui vẻ](#Fun)
+- [18+ ( ͡° ͜ʖ ͡°) ](#nsfw)
+- [Một số lệnh vui vẻ](#fun)
 
 
 
