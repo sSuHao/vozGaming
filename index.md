@@ -17,13 +17,10 @@ Mục tiêu và phương hướng hoạt động: miễn phí, vui vẻ, hòa đ
 
 - Hướng dẫn
 	- [Luật lệ](guides/Rules Guide.md)
-	- [Các channel và chức năng](guides/Channel Guide.md)
-	- [Các lệnh cơ bản của bot Hinata](guides/Hinata Guide.md)
-	- [Docker Guide](guides/Docker Guide.md)
+	- [Các channel và chức năng](guides/Hướng dẫn cơ bản.md)
+	- [Các lệnh cơ bản của bot Hinata](guides/Hướng dẫn về BOT Hinata.md)
+	- [Cách sử dụng BOT Âm Nhạc](guides/Docker Guide.md)
 	- [From Source](guides/From Source.md)
-- Commands
-	- [Readme](Readme.md)
-	- [Commands List](Commands List.md)
 
 
 [img]: https://cdn.discordapp.com/attachments/202743183774318593/210580315381563392/discord.png
