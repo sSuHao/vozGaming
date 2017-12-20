@@ -12,11 +12,21 @@ Giới thiệu lần đầu tại vozForums: https://vozforums.com/showthread.ph
 
 Mục tiêu và phương hướng hoạt động: miễn phí, vui vẻ, hòa đồng.
 
+#Luật lệ khi tham gia sinh hoạt tại server vozGaming
+
+ "Sân chơi nào cũng có luật riêng, nếu không thích, bạn có quyền không chơi"
+
+- Vui vẻ, hòa đồng, thân thiện
+- Can dầu là đầu câu chuyện :beauty:
+ 
+
+
+
 
 ##Danh mục
 
 - Hướng dẫn
-	- [Luật lệ](guides/Rules Guide.md)
+
 	- [Các channel và chức năng](guides/Hướng dẫn cơ bản.md)
 	- [Các lệnh cơ bản của bot Hinata](guides/Hướng dẫn về BOT Hinata.md)
 	- [Cách sử dụng BOT Âm Nhạc](guides/Docker Guide.md)
