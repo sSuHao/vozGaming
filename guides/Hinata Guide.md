@@ -3,11 +3,10 @@
 ##Danh mục
 - [Roles / Chức danh](#roles)
 - [Hệ thống tiền tệ](#currency)
+- [Hệ thống kinh nghiệm](#exp)
 - [Trò chơi](#games)
-- [Gambling](#gambling)
-- [Games](#games)
-- [Music](#music)
-- [NSFW](#nsfw)
+- [18+ ( ͡° ͜ʖ ͡°) ](#NSFW)
+- [Một số lệnh vui vẻ](#Fun)
 
 
 
@@ -47,6 +46,18 @@ Lệnh | Chức năng | Ví dụ
 `.pick` | Nhặt lượng tiền được sinh ra ngẫu nhiên tại kênh chat | `.pick`
 `.plant` | Tốn một lượng tiền để tung ra kênh chat. Mặc định là 1 | `.plant` hoặc `.plant 10`
 
+
+### exp
+
+Lệnh | Chức năng | Ví dụ
+----------------|--------------|-------
+`.xp` | Hiển thị thông tin kinh nghiệm hiện tại | `.xp` hoặc `.xp @aiđó`
+`.xprews` | Hiển thị các phần thưởng khi lên cấp | .
+`.xpn server channel` | Thông báo mỗi khi lên cấp tại channel chat cuối cùng | .
+`.xpleaderboard` `.xplb` | Bảng xếp hạng XP | .
+
+
+
 ### Games
 
 
@@ -60,6 +71,16 @@ Lệnh | Chức năng | Ví dụ
 `.connect4` `.con4` | Tạo một trò chơi connect4, yêu cầu tối thiểu phải có 2 người. Mục tiêu là đưa 4 mảnh vỡ thành 1 đường thẳng hoặc ngang hoặc chéo | `.connect4`
 `.tictactoe` `.ttt` | Mở game chơi cờ caro. Yêu cầu phải có 2 người cùng sử dụng lệnh để bắt đầu game. Sử dụng số 1-9 để chơi | `.ttt`
 
+
+Pokemon
+
+Lệnh | Chức năng | Ví dụ
+----------------|--------------|-------
+`.attack` | Tấn công với kĩ năng được chỉ định. Dùng lệnh `.movelist` để xem các kĩ năng có thể sử dụng. | `.attack "vine whip" @aiđó`
+`.movelist` `.ml` | Danh sách kĩ năng có thể sử dụng | .
+`.heal` | Hồi máu cho ai đó. Hồi sinh nếu người đó đã bị thương nặng. Tốn 1 gạch | `.heal @aiđó`
+`.type` | Xem chủng loại Pokemon của đối phương | `.type @aiđó`
+`.settype` | Chọn chủng loại pokemon. Tốn 1 gạch. Có thể gõ `.settype` để xem toàn bộ danh sách | `.settype Fire` hoặc `.settype`
 
 Các trò chơi ngẫu nhiên & cá cược
 
@@ -81,3 +102,23 @@ Lệnh | Chức năng | Ví dụ
 `.betflip` `.bf` | Cá cược trò tung đồng xu với BOT của server xem kết quả là heads/h (ngửa) hay tails/t (sấp). Phần thưởng là 1.9x số tiền cược (có thể thay đổi). | `.bf 5 heads` hoặc `.bf 5 t`
 
 
+### NSFW
+
+
+Lệnh | Chức năng | Ví dụ
+----------------|--------------|-------
+`.hentai` | Post ngẫu nhiên một ảnh hentai từ một trang web hentai (gelbooru hoặc danbooru hoặc konachan hoặc atfbooru hoặc yandere). Có thể thêm 1 tag | `.hentai yuri`
+`.hentaibomb` | Không phải một ảnh, mà là 5 ảnh :v | .
+`.boobs` | Real vếu ( ͡° ͜ʖ ͡°)  | .
+`.butts` `.ass` `.butt` | Real đýt ( ͡° ͜ʖ ͡°) | .
+
+
+### Fun
+
+Lệnh | Chức năng | Ví dụ
+----------------|--------------|-------
+`.rip` | RIP | `.rip @aiđó`
+`.weather` `.we` | Thời tiết | `.we Hà Nội`
+`.meow` | Mòe cute <3 | .
+`.woof` | Chó cute <3 | .
+`.randomimage` `.rimg` | Ảnh ngẫu nhiên với tag chỉ định | `.rimg voz`
