@@ -29,8 +29,8 @@ Mục tiêu và phương hướng hoạt động: miễn phí, vui vẻ, hòa đ
 
 	- [Các channel và chức năng](guides/Hướng dẫn cơ bản.md)
 	- [Các lệnh cơ bản của bot Hinata](guides/Hướng dẫn về BOT Hinata.md)
-	- [Cách sử dụng BOT Âm Nhạc](guides/Docker Guide.md)
-	- [From Source](guides/From Source.md)
+	- [Cách sử dụng BOT Âm Nhạc](guides/Hướng dẫn về BOT Âm nhạc.md)
+	- [Lưu trữ](guides/Lưu trữ.md)
 
 
 [img]: https://cdn.discordapp.com/attachments/202743183774318593/210580315381563392/discord.png
