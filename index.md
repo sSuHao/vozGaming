@@ -6,6 +6,12 @@ Link tham gia server discord (bấm vào ảnh):
 
 Đây là trang hỗ trợ dành cho các thành viên server vozGaming. Bao gồm hướng dẫn các tính năng và luật lệ.
 
+Server discord vozGaming được thành lập lúc 23h ngày 20/10/2017.
+
+Giới thiệu lần đầu tại vozForums: https://vozforums.com/showthread.php?t=6604573
+
+Mục tiêu và phương hướng hoạt động: miễn phí, vui vẻ, hòa đồng.
+
 
 ##Danh mục
 - [Giới thiệu](about.md)
@@ -18,14 +24,7 @@ Link tham gia server discord (bấm vào ảnh):
 - Commands
 	- [Readme](Readme.md)
 	- [Commands List](Commands List.md)
-- Features Explained
-	- [Permissions System](Permissions System.md)
-	- [JSON Explanations](JSON Explanations.md)
-	- [Custom Reactions](Custom Reactions.md)
-	- [Placeholders](Placeholders.md)
-- [Frequently Asked Questions](Frequently Asked Questions.md)
-- [Contribution Guide](Contribution Guide.md)
-- [Donate](Donate.md)
+
 
 [img]: https://cdn.discordapp.com/attachments/202743183774318593/210580315381563392/discord.png
-[NadekoBot Server]: https://discord.gg/nadekobot
+
