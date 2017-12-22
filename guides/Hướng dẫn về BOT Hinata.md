@@ -12,7 +12,11 @@
 
 ### Roles
 
-Chức danh
+Roles (chức danh). Hiện tại server có rất nhiều chức danh, mỗi chức danh có một ý nghĩa riêng.
+Điểm qua một số role của vozGaming như
+
+Moderator: mod của server, hiện tại có Key và dtieubinh (cũng là mod F253 voz)
+
 
 Lệnh | Chức năng | Ví dụ
 ----------------|--------------|-------
@@ -110,6 +114,10 @@ Lệnh | Chức năng | Ví dụ
 `.flip` | Tung đồng xu - Ngửa (head) hoặc sấp (tail), có hình ảnh minh họa | `.flip` hoặc `.flip 3`
 `.betflip` `.bf` | Cá cược trò tung đồng xu với BOT của server xem kết quả là heads/h (ngửa) hay tails/t (sấp). Phần thưởng là 1.9x số tiền cược (có thể thay đổi). | `.bf 5 heads` hoặc `.bf 5 t`
 
+
+Lưu ý: luôn vui chơi lành mạnh và biết điểm dừng, tránh như bet thủ Cứt đã phải trả giá :shame:
+
+![Imgur](https://i.imgur.com/hvPTUZ6.png)
 
 ### NSFW
 
