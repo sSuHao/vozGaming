@@ -16,6 +16,10 @@ Roles (chức danh). Hiện tại server có rất nhiều chức danh, mỗi ch
 Điểm qua một số role của vozGaming như
 
 Moderator: mod của server, hiện tại có Key và dtieubinh (cũng là mod F253 voz)
+DJ: role này cho phép thành viên tự do skip, next bài... mà không cần vote khi có nhiều người cùng nghe
+Dream Team: role này riêng dành cho team custom LMHT của server vozGaming, cho phép truy cập vào channel voice riêng của team, tránh trường hợp các member khác vào phòng
+*6 roles tự set đọc phía dưới*
+Team Leader/member: dành cho các team đã đăng kí, có quyền truy cập vào channel voice của team, riêng Leader có quyền mute/move thành viên giữa các room voice
 
 
 Lệnh | Chức năng | Ví dụ
@@ -43,6 +47,15 @@ Nông dân chăn rau: Nâu
 
 ### Currency
 
+Hệ thống tiền tệ của server vozGaming mang đậm bản sắc voz: cục gạch ![Imgur](https://i.imgur.com/TkZiDH5.png)
+
+Khi tán gẫu tại channel #thao-luan-chung, sẽ có tỉ lệ rơi ra gạch, khi xuất hiện thông báo, ai gõ .pick nhanh nhất sẽ là người sở hữu số gạch đó
+
+![Imgur](https://i.imgur.com/yXDatoH.png)
+
+Một lưu ý nữa, đó là các tài khoản mới tham gia Discord sẽ có hạn chế nhất định về các tính năng (tránh sử dụng clone trục lợi)
+
+
 Lệnh | Chức năng | Ví dụ
 ----------------|--------------|-------
 `.$` `.$ @someone` | Kiểm tra số tiền đang sở hữu hoặc số tiền người khác đang sở hữu | `.$` `.$ @SuHao`
@@ -53,14 +66,13 @@ Lệnh | Chức năng | Ví dụ
 `.pick` | Nhặt lượng tiền được sinh ra ngẫu nhiên tại kênh chat | `.pick`
 `.plant` | Tốn một lượng tiền để tung ra kênh chat. Mặc định là 1 | `.plant` hoặc `.plant 10`
 
-Tại kênh chat #thao-luan-chung, sẽ có tỉ lệ ngẫu nhiên gạch rơi ra, ai nhặt nhanh nhất sẽ được sở hữu.
 
-![Imgur](https://i.imgur.com/yXDatoH.png)
 
 ### exp
 
-Bạn sẽ nhận được kinh nghiệm khi chat tại channel #thao-luan-chung
+Bạn sẽ nhận được kinh nghiệm khi chat tại channel #thao-luan-chung. Hệ thống không tính theo số câu chat, nên vui lòng không spam tin nhắn để lên cấp
 Lên cấp tương ứng sẽ được thưởng các phần quà tương ứng
+
 
 Lệnh | Chức năng | Ví dụ
 ----------------|--------------|-------
@@ -70,6 +82,7 @@ Lệnh | Chức năng | Ví dụ
 `.xpleaderboard` `.xplb` | Bảng xếp hạng XP | .
 
 ![Imgur](https://i.imgur.com/QNvPWdP.png)
+
 
 ### Games
 
@@ -119,8 +132,11 @@ Lưu ý: luôn vui chơi lành mạnh và biết điểm dừng, tránh như bet
 
 ![Imgur](https://i.imgur.com/hvPTUZ6.png)
 
+
+
 ### NSFW
 
+18+, không dành cho trẻ em có thai, phụ nữ có cu và người già đang cho con bú :">
 
 Lệnh | Chức năng | Ví dụ
 ----------------|--------------|-------
