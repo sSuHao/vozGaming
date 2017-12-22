@@ -15,10 +15,15 @@
 Roles (chức danh). Hiện tại server có rất nhiều chức danh, mỗi chức danh có một ý nghĩa riêng.
 Điểm qua một số role của vozGaming như
 
+
 Moderator: mod của server, hiện tại có Key và dtieubinh (cũng là mod F253 voz)
+
 DJ: role này cho phép thành viên tự do skip, next bài... mà không cần vote khi có nhiều người cùng nghe
+
 Dream Team: role này riêng dành cho team custom LMHT của server vozGaming, cho phép truy cập vào channel voice riêng của team, tránh trường hợp các member khác vào phòng
+
 *6 roles tự set đọc phía dưới*
+
 Team Leader/member: dành cho các team đã đăng kí, có quyền truy cập vào channel voice của team, riêng Leader có quyền mute/move thành viên giữa các room voice
 
 
@@ -71,6 +76,7 @@ Lệnh | Chức năng | Ví dụ
 ### exp
 
 Bạn sẽ nhận được kinh nghiệm khi chat tại channel #thao-luan-chung. Hệ thống không tính theo số câu chat, nên vui lòng không spam tin nhắn để lên cấp
+
 Lên cấp tương ứng sẽ được thưởng các phần quà tương ứng
 
 
