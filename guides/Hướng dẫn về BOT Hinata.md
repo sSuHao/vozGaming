@@ -105,6 +105,12 @@ Lệnh | Chức năng | Ví dụ
 `.tictactoe` `.ttt` | Mở game chơi cờ caro. Yêu cầu phải có 2 người cùng sử dụng lệnh để bắt đầu game. Sử dụng số 1-9 để chơi | `.ttt`
 
 
+Ngoài ra có thể hỏi bot câu hỏi có/không bằng cách thêm câu "có hay không" trong câu hỏi, ví dụ:
+
+![Imgur](https://i.imgur.com/v6Y7lRl.png)
+
+
+
 Pokemon
 
 Lệnh | Chức năng | Ví dụ
@@ -139,11 +145,6 @@ Lệnh | Chức năng | Ví dụ
 Lưu ý: luôn vui chơi lành mạnh và biết điểm dừng, tránh như bet thủ Cứt đã phải trả giá :shame:
 
 ![Imgur](https://i.imgur.com/hvPTUZ6.png)
-
-
-Ngoài ra có thể hỏi bot câu hỏi có/không bằng cách thêm câu "có hay không" trong câu hỏi, ví dụ:
-
-![Imgur](https://i.imgur.com/v6Y7lRl.png)
 
 
 
