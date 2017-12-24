@@ -141,6 +141,11 @@ Lưu ý: luôn vui chơi lành mạnh và biết điểm dừng, tránh như bet
 ![Imgur](https://i.imgur.com/hvPTUZ6.png)
 
 
+Ngoài ra có thể hỏi bot câu hỏi có/không bằng cách thêm câu "có hay không" trong câu hỏi, ví dụ:
+
+![Imgur](https://i.imgur.com/v6Y7lRl.png)
+
+
 
 ### NSFW
 
