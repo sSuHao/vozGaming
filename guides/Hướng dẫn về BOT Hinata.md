@@ -70,6 +70,7 @@ Lệnh | Chức năng | Ví dụ
 `.buy X` | Mua vật phẩm có số thứ tự X trong cửa hàng. Lưu ý cần bật chế độ gửi tin nhắn riêng tư để bot có thể gửi vật phẩm | `.buy 1`
 `.pick` | Nhặt lượng tiền được sinh ra ngẫu nhiên tại kênh chat | `.pick`
 `.plant` | Tốn một lượng tiền để tung ra kênh chat. Mặc định là 1 | `.plant` hoặc `.plant 10`
+`.timely` | Nhận phần thưởng theo giờ. Hiện tại phần thưởng khi gõ .timely là 1 gạch/giờ | .
 
 
 
