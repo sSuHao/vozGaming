@@ -133,6 +133,7 @@ Lệnh | Chức năng | Ví dụ
 `.deckshuffle` `.dsh` | Xáo trộn lại toàn bộ bài | .
 `.flip` | Tung đồng xu - Ngửa (head) hoặc sấp (tail), có hình ảnh minh họa | `.flip` hoặc `.flip 3`
 `.betflip` `.bf` | Cá cược trò tung đồng xu với BOT của server xem kết quả là heads/h (ngửa) hay tails/t (sấp). Phần thưởng là 1.9x số tiền cược (có thể thay đổi). | `.bf 5 heads` hoặc `.bf 5 t`
+`.wheel` | Cược số tiền vào bàn quay, quay vào số nào sẽ nhận lại phần thưởng tương ứng. | `.wheel 10`
 
 
 Lưu ý: luôn vui chơi lành mạnh và biết điểm dừng, tránh như bet thủ Cứt đã phải trả giá :shame:
