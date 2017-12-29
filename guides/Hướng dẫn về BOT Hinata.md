@@ -103,11 +103,10 @@ Lệnh | Chức năng | Ví dụ
 `.rps` | Chơi Kéo-Búa-Bao (oẳn tù tì) với Hinata | `.rps Rocket/Paperclip/Scissors`
 `.connect4` `.con4` | Tạo một trò chơi connect4, yêu cầu tối thiểu phải có 2 người. Mục tiêu là đưa 4 mảnh vỡ thành 1 đường thẳng hoặc ngang hoặc chéo | `.connect4`
 `.tictactoe` `.ttt` | Mở game chơi cờ caro. Yêu cầu phải có 2 người cùng sử dụng lệnh để bắt đầu game. Sử dụng số 1-9 để chơi | `.ttt`
+`.hoidap` | Hỏi bot và bot sẽ trả lời :shame: lưu ý câu hỏi dạng có/không | `.hoidap admin đẹp trai vl đúng không`
 
 
-Ngoài ra có thể hỏi bot câu hỏi có/không bằng cách thêm câu "có hay không" trong câu hỏi, ví dụ:
-
-![Imgur](https://i.imgur.com/v6Y7lRl.png)
+![Imgur](https://i.imgur.com/Xv5V68O.png)
 
 
 
