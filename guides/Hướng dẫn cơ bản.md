@@ -1,10 +1,10 @@
-## Channel (kênh) discord
+## Giới thiệu về Discord
 
 **Discord là ứng dụng chat đa năng, cực kì tiện lợi**			
 
 Discord có 2 loại channel là text channel (chat chữ) và voice channel (chat âm thanh)
 
-#### Các channel của server
+#### Các kênh của server
 
 - Trò chuyện linh tinh
 
@@ -41,6 +41,20 @@ Voice: trà đá vỉa hè
 5 voice channel public dành cho mọi người
 
 ![Imgur](https://i.imgur.com/ZIb0A0j.png)
+
+
+#### Để đổi tên hiển thị & avatar
+
+Bấm vào User settings
+![Imgur](https://i.imgur.com/B5ZJTyd.png)
+
+My Account, bấm Edit
+![Imgur](https://i.imgur.com/FkZmaGx.png)
+
+
+
+
+
 
 #### Để tắt bớt thông báo từ một số kênh hay spam
 
